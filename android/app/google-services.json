@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "715056186027",
+    "project_id": "teacher-assist-3afdc",
+    "storage_bucket": "teacher-assist-3afdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715056186027:android:50b4618eec2bb89eebadee",
+        "android_client_info": {
+          "package_name": "com.example.assist_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715056186027-6r6kl7n5fo4d8obj7orh4c8ubn2glcrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assist_teacher",
+            "certificate_hash": "9e4b48fcb2b932d0834329795fcc44041703e0f7"
+          }
+        },
+        {
+          "client_id": "715056186027-79052lofp618kd05l1at9cm46cvngbtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgqNJB1oMXW4pzsGlhep_B8Ps1p0Uluo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715056186027-79052lofp618kd05l1at9cm46cvngbtc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715056186027-jd0dc846n22qlfo3jdlfi7843n9r5l8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assistTeacher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
